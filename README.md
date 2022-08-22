@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EAB308&background=FF3D0000&width=435&lines=Hello%2C+I'm+Khaled+Medhat;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 </div>  
